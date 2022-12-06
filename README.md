@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FarahRizwan
-- 👀 I’m inspiring flutter developer
-- 🌱 I’m currently learning Flutter Mobile App development.
-- 📫 How to reach me 
+- 👋 I’m @FarahRizwan
+- 👀 inspiring flutter developer.
+- 📫 farizwan0068@gmail.com
+- 
 
 <!---
 FarahRizwan/FarahRizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
